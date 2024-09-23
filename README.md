@@ -1,2 +1,3 @@
 # Optmization
-The answer to the optimization exercises of Zak's book
+Answer to the optimization exercises of Zak's book
+Classification drugs
